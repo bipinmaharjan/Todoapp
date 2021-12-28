@@ -1,0 +1,4 @@
+#Tue Dec 28 16:07:12 NPT 2021
+base.0=E\:\\pasa app\\Todoapp\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
