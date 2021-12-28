@@ -1865,7 +1865,6 @@ id edit_fragment_rb_low
 id edit_fragment_rb_medium
 id edit_fragment_rg_priority
 id edit_fragment_txt_date
-id edit_fragment_txt_description
 id edit_fragment_txt_name
 id edit_query
 id elastic
